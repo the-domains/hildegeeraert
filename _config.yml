@@ -1,0 +1,28 @@
+name: HILDEGEERAERT
+favicon: null
+layout_spectrum: 0.08594587654806674
+typography_spectrum: 0.4990522244479507
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6913351167459041
+  lightness: 0.8164035764057189
+  saturation: 0.7197663197293878
+  rhythmicContrast: 0.4447524396236986
+purpose: []
